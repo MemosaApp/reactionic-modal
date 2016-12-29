@@ -1,7 +1,7 @@
 {
-  "name": "project-name",
+  "name": "reactionic-modal",
   "version": "1.0.0",
-  "description": "project-description",
+  "description": "Custom modal that mimics the one in reactionic",
   "main": "dist/index.js",
   "scripts": {
     "clean": "rm -rf ./dist",
@@ -17,7 +17,12 @@
     "url": "git+https://github.com/MemosaApp/package-template.git",
     "type": "git"
   },
-  "keywords": [],
+  "keywords": [
+    "modal",
+    "react",
+    "ionic",
+    "reactionic"
+  ],
   "author": "Ivan Montiel <idmontie@gmail.com> (https://github.com/idmontie)",
   "license": "MIT",
   "bugs": {
