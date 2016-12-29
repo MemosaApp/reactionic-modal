@@ -1,6 +1,6 @@
 {
   "name": "reactionic-modal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom modal that mimics the one in reactionic",
   "main": "dist/index.js",
   "scripts": {
