@@ -1,6 +1,6 @@
 # reactionic-modal
 
-[![CircleCI](https://circleci.com/gh/MemosaApp/reactionic-modal.svg?style=svg)](https://circleci.com/gh/MemosaApp/reactionic-modal) [![npm version](https://badge.fury.io/js/reactioinic-modal.svg)](https://badge.fury.io/js/reactioinic-modal)
+[![CircleCI](https://circleci.com/gh/MemosaApp/reactionic-modal.svg?style=svg)](https://circleci.com/gh/MemosaApp/reactionic-modal) [![npm version](https://badge.fury.io/js/reactionic-modal.svg)](https://badge.fury.io/js/reactionic-modal)
 
 Custom modal that mimics the one in reactionic
 
